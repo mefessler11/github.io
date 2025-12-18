@@ -1,3 +1,11 @@
+**Optivest speichert alle Daten ausschließlich lokal auf deinem Gerät.**
+Es werden keine persönlichen Finanzdaten an Server, Dritte oder externe Dienste übertragen.
+
+Keine Cloud-Synchronisation
+Keine versteckten Tracker für Finanzdaten
+Keine Weitergabe deiner Konten- oder Depotinformationen
+Du behältst die volle Kontrolle über deine Daten. Wenn du die App oder die Daten löschst, werden auch alle gespeicherten Inhalte dauerhaft von deinem Gerät entfernt.
+
 Optivest – Klarheit über Liquidität, Konten und Investments.
 
 Plane deine Finanzen monatsgenau, definiere dein Hauptkonto für Einkommen und Ausgaben und investiere automatisch nur das, was wirklich frei ist – in deiner bevorzugten Währung.
